@@ -10,12 +10,11 @@ I’m a **Web Back-end Developer** currently studying at **FPT Polytechnic Colle
 
 ---
 
-
 ### 🌐 Connect with me:  
 <p align="left">
-<a href="https://www.facebook.com/quangdai2309" target="blank">
-  <img align="center" color=blue src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
+  <a href="https://www.facebook.com/quangdai2309" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -39,18 +38,18 @@ I’m a **Web Back-end Developer** currently studying at **FPT Polytechnic Colle
 ---
 
 ### 📊 GitHub Stats:  
-<p align="left" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blion00&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blion00&theme=tokyonight" alt="GitHub Streak"/>
+<p style="display: flex; justify-content: center; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=quangdai2309&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangdai2309&theme=tokyonight" alt="GitHub Streak" width="400" height="200"/>
 </p>
 
 ---
 
 ### 🏆 Top Languages:  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blion00&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdai2309&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-⭐ **Follow me for more updates!**  
+⭐ **Follow me for more updates!**
